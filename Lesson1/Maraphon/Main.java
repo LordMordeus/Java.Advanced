@@ -14,7 +14,7 @@ public class Main {
         Competitor[] competitors ={
                 new Human("Finn"),
                 new Cat("Kusya"),
-                new Robot("KozaniyMeshok")
+                new Robot("KojaniyMeshok")
         };
         Obstacle[] obstacles ={
                 new Wall(4),
