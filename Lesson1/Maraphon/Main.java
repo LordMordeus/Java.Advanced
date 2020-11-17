@@ -12,7 +12,7 @@ import Maraphon.Obstacles.Wall;
 public class Main {
     public static void main(String[] args) {
         Competitor[] competitors ={
-                new Human("Volodya"),
+                new Human("Finn"),
                 new Cat("Kusya"),
                 new Robot("KozaniyMeshok")
         };
